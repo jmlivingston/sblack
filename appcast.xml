@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title></title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        
+            
+                
+                    <item>
+                        <title>Trying to get code-signing working</title>
+                        <description><![CDATA[<p>Some release notes.</p>
+]]></description>
+                        <pubDate>Wed, 07 Feb 2018 20:39:51 +0000</pubDate>
+                        
+                            
+                            
+                            <enclosure
+                                url="https://github.com/frankdilo/sblack/releases/download/20180207001/Sblack.v1.0.b20180207001.zip"
+                                sparkle:version="20180207001"
+                                sparkle:shortVersionString="20180207001"
+                                length="5596779"
+                                type="application/octet-stream" />
+                        
+                    </item>
+                
+            
+        
+            
+                
+                    <item>
+                        <title>Third release</title>
+                        <description><![CDATA[<p>Still  just testing.</p>
+
+<p>Let’s see if <strong>markdown</strong> gets</p>
+
+<ul>
+  <li>rendered nicely</li>
+  <li>in sparkle</li>
+</ul>
+]]></description>
+                        <pubDate>Tue, 06 Feb 2018 21:46:27 +0000</pubDate>
+                        
+                            
+                            
+                            <enclosure
+                                url="https://github.com/frankdilo/sblack/releases/download/20180206003/Sblack.v1.0.b20180206003.zip"
+                                sparkle:version="20180206003"
+                                sparkle:shortVersionString="20180206003"
+                                length="5567590"
+                                type="application/octet-stream" />
+                        
+                    </item>
+                
+            
+        
+            
+                
+                    <item>
+                        <title>Second release</title>
+                        <description><![CDATA[<p>Just testing</p>
+]]></description>
+                        <pubDate>Tue, 06 Feb 2018 21:33:09 +0000</pubDate>
+                        
+                            
+                            
+                            <enclosure
+                                url="https://github.com/frankdilo/sblack/releases/download/20180206001/Sblack.v1.0.b20180206001.zip"
+                                sparkle:version="20180206001"
+                                sparkle:shortVersionString="20180206001"
+                                length="5567392"
+                                type="application/octet-stream" />
+                        
+                    </item>
+                
+            
+        
+            
+                
+                    <item>
+                        <title>First release</title>
+                        <description><![CDATA[<p>This is the first release of Sblack.</p>
+]]></description>
+                        <pubDate>Tue, 06 Feb 2018 20:59:27 +0000</pubDate>
+                        
+                            
+                            
+                            <enclosure
+                                url="https://github.com/frankdilo/sblack/releases/download/v1.0.0/Sblack.v1.0.b20180206001.zip"
+                                sparkle:version="20180206001"
+                                sparkle:shortVersionString="1.0.0"
+                                length="4090353"
+                                type="application/octet-stream" />
+                        
+                    </item>
+                
+            
+        
+    </channel>
+</rss>
